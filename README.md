@@ -24,3 +24,4 @@ new test
 
 new branch develop
 first line on new branch develop
+second line on new branch develop
