@@ -1,7 +1,8 @@
 # Tech talk
 
 *First commit from main*
-- This is _not that important_ ( updated from TT branch)
+- This is finally **very important** ( updated from TT branch)
+- This one line also *really important*
 
 *New paragraph from TT Branch*
 
