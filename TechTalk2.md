@@ -8,6 +8,8 @@ On origin main, github
 git checkout main
 git add.
 git commit -m"first commit"
+git pull origin main
+
 
 
 ```
