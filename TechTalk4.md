@@ -40,5 +40,6 @@ git checkout main
 git fetch
 git merge
 # solve conflict
+git merge Phil
 
 ```
