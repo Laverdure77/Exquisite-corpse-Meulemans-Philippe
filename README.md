@@ -1,4 +1,6 @@
-Once in the wildwest ...
+
+# Once in the wildwest
+
 A cowboy was walking.....
 
 and suddenly...
@@ -7,10 +9,9 @@ blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah 
 
 blah blah blah blah blah blah blah blah blah
 
-
 END.
 
-he tripped on a rock ... 
+he tripped on a rock ...
 
 This is a test ...
 
@@ -20,7 +21,7 @@ debug test on debug branch
 
 second line on debug branch
 
-new test 
+new test
 
 new branch develop
 first line on new branch develop
@@ -46,5 +47,6 @@ line 49 from main
 
 Line 49 from O/main
 line 53 from mainline 53 from O/main
-
 new line 50 from main
+New line 55 from origin main
+Another line 56 to force branch diverge, from origin main
