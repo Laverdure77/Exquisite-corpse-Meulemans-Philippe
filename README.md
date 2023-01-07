@@ -29,25 +29,22 @@ third line on new branch develop
 
 new line on main branch
 second line on main branc
-line 31 from phil 
+line 31 from phil  
 line 32 from phil
 line 33 from origin main
 
 line 36 from main
 line 36 from O/main
 
+new line from O/main
 
 new line from O/main
 
-
-new line from O/main
-
-
-new line from main 
-
+new line from main  
 
 line 49 from main
 
-
 Line 49 from O/main
 line 53 from mainline 53 from O/main
+
+new line 50 from main
